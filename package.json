@@ -5,8 +5,8 @@
 	"scripts": {
 		"dev": "next",
 		"build": "next build",
-		"start": "next start",
-		"prod": "next export"
+		"start": "next start -p $PORT",
+	     "heroku": "npm run build"
 	},
 	"dependencies": {
 		"bcrypt": "^5.0.1",
