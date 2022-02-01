@@ -3,7 +3,7 @@
 
 module.exports = {
 	env: {
-		BASE_URL: 'https://ontoconstruction.herokuapp.com/',
+		BASE_URL: 'https://vercel.com/tyouba/tyouba-ontoconstruction/',
 		MONGODB_URL:
 			'mongodb+srv://khouloud:khouloud@cluster0.y8j09.mongodb.net/myFirstDatabase?retryWrites=true&w=majority',
 		ACCESS_TOKEN_SECRET: 'khouloud602999301.3598777',
